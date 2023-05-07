@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-07T03:27:29.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="xVFOoAztalb-zBgOVbFU" version="21.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-07T03:41:15.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ygTSgBRilVhiiKqHc0qJ" version="21.2.9" type="github" pages="3">
   <diagram name="初始状态" id="cx1OhNYS382McnVxjSM8">
     <mxGraphModel dx="2868" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
         <mxCell id="cKzIdfuSbyDjwmaydxJ2-11" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 40px;&quot;&gt;&lt;strike&gt;1.txt&lt;/strike&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cKzIdfuSbyDjwmaydxJ2-1">
           <mxGeometry x="312" y="630" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cKzIdfuSbyDjwmaydxJ2-12" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 80px;&quot;&gt;git restore .&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cKzIdfuSbyDjwmaydxJ2-1">
+        <mxCell id="cKzIdfuSbyDjwmaydxJ2-12" value="&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 80px;&quot;&gt;git restore --work .&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cKzIdfuSbyDjwmaydxJ2-1">
           <mxGeometry x="270" y="102" width="1734" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lwoXBT66X0IdY2Zsh9Ek-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;strokeColor=#FF9999;" vertex="1" parent="cKzIdfuSbyDjwmaydxJ2-1">
